@@ -9,7 +9,7 @@ Each sub-project demonstrates core competencies used in embedded systems, firmwa
 ---
 
 ## HW3 — Systems Programming in C  
-**Folder:** `hw3-c/`
+**Folder:** `draft-project/`
 
 A series of C programs focused on low-level computation, dynamic memory management, data parsing, and algorithmic correctness.
 
@@ -26,7 +26,7 @@ A series of C programs focused on low-level computation, dynamic memory manageme
 ---
 
 ## HW4 — MIPS Assembly Programming  
-**Folder:** `hw4-mips/`
+**Folder:** `mips/`
 
 The same algorithms from HW3 re-implemented **entirely in MIPS assembly** using QtSpim, emphasizing register discipline, stack frames, and manual control flow.
 
@@ -43,7 +43,7 @@ The same algorithms from HW3 re-implemented **entirely in MIPS assembly** using 
 ---
 
 ## HW5 — Digital Logic Design (Logisim Evolution)  
-**Folder:** `hw5-logisim/`
+**Folder:** `LogisimAdder/`
 
 Digital circuits built using only primitive logic elements — no prebuilt arithmetic or high-level components.
 
@@ -60,7 +60,7 @@ Digital circuits built using only primitive logic elements — no prebuilt arith
 ---
 
 ## HW6 — Complete 16-bit Single-Cycle CPU (Duke 250/16)  
-**Folder:** `hw6-cpu/`
+**Folder:** `logisim-cpu/`
 
 A ground-up implementation of a **MIPS-like, word-addressed 16-bit CPU** supporting arithmetic, logical operations, memory access, branching, jumping, and basic I/O.
 
