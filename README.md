@@ -1,4 +1,4 @@
-# cs250-computer-architecture-projects
+# 🚀 CS250 Computer Architecture Portfolio Projects
 Projects from Duke CS250: MIPS, C, and Logisim Evolution 16-bit adder + CPU design
 
 This repository contains a structured portfolio of major projects completed for **Duke University’s CS250: Computer Architecture**.  
@@ -8,8 +8,8 @@ Each sub-project demonstrates core competencies used in embedded systems, firmwa
 
 ---
 
-## HW3 — Systems Programming in C  
-**Folder:** `draft-project/`
+## 🔧 HW3 — Systems Programming in C  
+**Folder:** [`draft-project/`](draft-project/)
 
 A series of C programs focused on low-level computation, dynamic memory management, data parsing, and algorithmic correctness.
 
@@ -25,8 +25,8 @@ A series of C programs focused on low-level computation, dynamic memory manageme
 
 ---
 
-## HW4 — MIPS Assembly Programming  
-**Folder:** `mips/`
+## 🧩 HW4 — MIPS Assembly Programming  
+**Folder:** [`mips/`](mips/)
 
 The same algorithms from HW3 re-implemented **entirely in MIPS assembly** using QtSpim, emphasizing register discipline, stack frames, and manual control flow.
 
@@ -42,8 +42,8 @@ The same algorithms from HW3 re-implemented **entirely in MIPS assembly** using 
 
 ---
 
-## HW5 — Digital Logic Design (Logisim Evolution)  
-**Folder:** `LogisimAdder/`
+## 🔌 HW5 — Digital Logic Design (Logisim Evolution)  
+**Folder:** [`LogisimAdder/`](LogisimAdder/)
 
 Digital circuits built using only primitive logic elements — no prebuilt arithmetic or high-level components.
 
@@ -59,8 +59,8 @@ Digital circuits built using only primitive logic elements — no prebuilt arith
 
 ---
 
-## HW6 — Complete 16-bit Single-Cycle CPU (Duke 250/16)  
-**Folder:** `logisim-cpu/`
+## 🖥️ HW6 — Complete 16-bit Single-Cycle CPU (Duke 250/16)  
+**Folder:** [`logisim-cpu/`](logisim-cpu/)
 
 A ground-up implementation of a **MIPS-like, word-addressed 16-bit CPU** supporting arithmetic, logical operations, memory access, branching, jumping, and basic I/O.
 
@@ -79,4 +79,3 @@ A ground-up implementation of a **MIPS-like, word-addressed 16-bit CPU** support
 **Demonstrated Skills:** CPU design, datapath engineering, control logic, memory systems, clock timing, assembly-level debugging.
 
 ---
-
